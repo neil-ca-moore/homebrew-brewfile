@@ -1,1 +1,1 @@
-brew bash-git-prompt
+brew "bash-git-prompt"
