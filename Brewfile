@@ -1,3 +1,6 @@
 brew "bash-git-prompt"
 brew "watch"
 cask "spotify"
+cask "xquartz"
+brew "docker"
+cask "docker"
